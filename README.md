@@ -2,4 +2,4 @@
 DEMO version of web app 
 A Collaborative Coding Community: search and collaborate with developers in your area!
 
-https://danielachav.github.io/Code-and-Coffee-Test/.
+https://danielachav.github.io/Code-and-Coffee-Test/
